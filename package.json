@@ -1,0 +1,26 @@
+{
+  "name": "simple-website-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitrke/simple-website-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amitrke/simple-website-crawler/issues"
+  },
+  "homepage": "https://github.com/amitrke/simple-website-crawler#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "puppeteer": "^24.26.0"
+  }
+}
